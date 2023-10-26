@@ -51,7 +51,8 @@ def create_byweekday_df(df):
 
     return byweekday_df
 
-all_df = pd.read_csv("D:\Latihan Data Analyst/day_df_data.csv")
+url = 'https://raw.githubusercontent.com/ffdhil/Bike_Rental/main/dashboard/day_df_data.csv'
+all_df = pd.read_csv(url)
 
 datetime_columns = ["dteday"]
 all_df.sort_values(by="dteday", inplace=True)
