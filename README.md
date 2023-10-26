@@ -12,3 +12,6 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 streamlit run dashboard.py
 ```
 
+## Dashboard View
+![Dashboard View 1](https://example.com/openai-logo.png)
+![Dashboard View 2](https://example.com/openai-logo.png)
