@@ -5,18 +5,14 @@ import streamlit as st
 sns.set(style='dark')
 
 def create_daily_df(df):
-    daily_df = df.resample(rule='D', on='dteday').agg({
-        "registered": "sum",
-        "casual": "sum",
-        "cnt": "sum"
-    })
+    daily_df = df.resample(rule='D', on='dteday').sum()
     daily_df = daily_df.reset_index()
     daily_df.rename(columns={
         "registered": "registered_users",
         "casual": "casual_users",
         "cnt": "total_users"
     }, inplace=True)
-    
+
     return daily_df
 
 def create_byseason_df(df):
