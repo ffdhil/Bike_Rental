@@ -14,4 +14,4 @@ streamlit run dashboard.py
 
 ## Dashboard View
 ![Dashboard View 1](https://github.com/ffdhil/Bike_Rental/blob/main/dashboard%201.png)
-![Dashboard View 2](https://example.com/openai-logo.png)
+![Dashboard View 2](https://github.com/ffdhil/Bike_Rental/blob/main/dashboard%202.png)
