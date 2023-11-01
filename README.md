@@ -19,3 +19,4 @@ streamlit run dashboard.py
 ## Dashboard Tableau
 I've made a dashboard using Tableau, you can check it on this link:
 https://public.tableau.com/app/profile/fadhilah.akhbar/viz/BikeRentalDashboard/Dashboard1
+![Dashboard View 3](https://github.com/ffdhil/Bike_Rental/blob/main/Dashboard%20Tableau.png)
