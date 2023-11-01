@@ -15,3 +15,7 @@ streamlit run dashboard.py
 ## Dashboard View
 ![Dashboard View 1](https://github.com/ffdhil/Bike_Rental/blob/main/dashboard%201.png)
 ![Dashboard View 2](https://github.com/ffdhil/Bike_Rental/blob/main/dashboard%202.png)
+
+## Dashboard Tableau
+I've made a dashboard using Tableau, you can check it on this link:
+https://public.tableau.com/app/profile/fadhilah.akhbar/viz/BikeRentalDashboard/Dashboard1
